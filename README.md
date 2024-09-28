@@ -1,4 +1,4 @@
-## Transformando Dados em Decisões: Uma Abordagem para Predição de Crédito
+# Transformando Dados em Decisões: Uma Abordagem para Predição de Crédito
 
 Este projeto explora a criação de um modelo de previsão de crédito com o objetivo de avaliar a probabilidade de um cliente ser um bom ou mau pagador. O modelo é desenvolvido utilizando técnicas de machine learning para auxiliar instituições financeiras a tomar decisões mais informadas ao conceder crédito.
 
